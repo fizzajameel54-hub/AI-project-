@@ -1,6 +1,6 @@
 # AI-Driven Customer Churn Prediction for E-Commerce
 
-##Summary
+## Summary
 
 Customer retention is one of the most important factors influencing the profitability of e-commerce businesses. Acquiring a new customer is generally more expensive than retaining an existing one. This project demonstrates how Artificial Intelligence (AI) can be used to identify customers who are likely to stop purchasing from an online store. By predicting customer churn, businesses can proactively engage at-risk customers with personalized offers, discounts, or loyalty programs.
 
